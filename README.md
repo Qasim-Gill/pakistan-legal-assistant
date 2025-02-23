@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/pakistan-legal-assistant.git
+   git clone https://github.com/Qasim-Gill/pakistan-legal-assistant.git
    cd pakistan-legal-assistant
    ```
 
