@@ -118,7 +118,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 ## **Acknowledgments**
-- **ULEFUSA - APTECH - ICodeGuru - ASPIRE PAKISTAN - UET** for hosting the Generative AI Training Hackathon.
+- **ULEFUSA - APTECH - ICodeGuru - ASPIRE PAKISTAN - UET - Pak Angeles** for hosting the Generative AI Training Hackathon.
 - **Hugging Face** for providing the platform to deploy the app.
 - **Groq** for the fast and efficient language model API.
 
