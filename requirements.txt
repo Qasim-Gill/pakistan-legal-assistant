@@ -1,0 +1,12 @@
+gradio
+PyPDF2
+langchain
+faiss-cpu
+huggingface-hub
+sentence-transformers
+langchain_groq
+langchain_community
+langdetect
+transformers
+langchain_huggingface
+sentencepiece
